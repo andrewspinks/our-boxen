@@ -32,5 +32,9 @@ class andy::apps {
 	include gitx::dev
 	include flux
 	include bash::completion
+	include xctool
+	include vlc
+
+	class { 'gpgtools': }
 
 }

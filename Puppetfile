@@ -73,3 +73,9 @@ github "appcode2"
 github "gitx"
 github "flux"
 github "bash"
+github "xctool"
+github "vlc"
+github "gpgtools"
+# github vijournal
+# github pass
+# ghitub autoenv
